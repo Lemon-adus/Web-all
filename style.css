@@ -221,6 +221,24 @@
     margin-bottom: 50px;
 }
 
+.WhatWeDo_container--text{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 3%;
+    text-align: center;
+    text-transform: uppercase;
+    z-index: 1;   
+    position: absolute;
+    position: relative;
+    top: -71px; 
+    padding-bottom: 27px;
+    color: #fff;
+    padding-top: 27px;
+    background-color: #2F303ACC;
+}
+
 .Team{
     background-color: #F5F4FA;
     margin-top: 94px;
